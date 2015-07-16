@@ -14,5 +14,5 @@ exports.answer = function(req, res) {
 
 // GET /creditos
 exports.creditos = function(req, res) {
-	res.render('creditos', {autor: 'Saul Giordani'});
+	res.render('creditos');
 };
