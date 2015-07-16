@@ -12,7 +12,7 @@ exports.answer = function(req, res) {
 	}
 };
 
-// GET /quizes/creditos
+// GET /creditos
 exports.creditos = function(req, res) {
 	res.render('creditos', {autor: 'Saul Giordani'});
 };
