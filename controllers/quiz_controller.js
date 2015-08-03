@@ -20,7 +20,7 @@ exports.index = function(req, res) {
 		}
 	).catch(function(error) {
 		next(error);
-	})
+	});
 };
 
 // GET /quizes/:id
@@ -36,4 +36,19 @@ exports.answer = function(req, res) {
 		}
 	res.render('quizes/answer', 
 	{	quiz: req.quiz, respuesta: resultado	});
+};
+
+// GET /quizes/:busqueda
+exports.index=function(req,res){
+	if(req.query.search!=""){
+		var busqueda=(req.query.busqueda||"").replace(" ","%");
+	} else {
+		busqueda="";
+	}
+	models.Quiz.findAll({where:['pregunta like ?','%'+busqueda+'%'],order:'pregunta ASC'}).
+	then(function(quizes){
+		res.render('quizes/index.ejs',{quizes:quizes,errors:[]});
+	}).catch(function(error){
+		next(error);
+	});
 };
