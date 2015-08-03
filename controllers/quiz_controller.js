@@ -79,7 +79,7 @@ exports.create = function(req, res) {
 				.then(function() { res.redirect('/quizes')})
 			}	//	res.redirect
 		}
-	};
+	);
 };	
 
 // PUT /quizes/:id
