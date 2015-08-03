@@ -1,0 +1,654 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"qu",
+				"quizId"
+			],
+			[
+				"q",
+				"quiz"
+			],
+			[
+				"qui",
+				"quiz"
+			],
+			[
+				"Qu",
+				"quizId"
+			],
+			[
+				"r",
+				"req"
+			],
+			[
+				"p",
+				"pregunta"
+			],
+			[
+				"D",
+				"DataTypes"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"pr",
+				"protocol"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"c",
+				"_contenido"
+			],
+			[
+				"t",
+				"tf"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"barr",
+				"barraIT"
+			],
+			[
+				"ne",
+				"nextPage"
+			],
+			[
+				"dove",
+				"dove_testo"
+			],
+			[
+				"user",
+				"userLang"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pag",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"canc",
+				"cancelloRiga"
+			],
+			[
+				"ite",
+				"itemdel"
+			],
+			[
+				"Sho",
+				"showConfirmCancellazione"
+			],
+			[
+				"Tit",
+				"title"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"contenitore",
+				"contenitore-basso"
+			],
+			[
+				"conte",
+				"contenuto2"
+			],
+			[
+				"Co",
+				"contenuto"
+			],
+			[
+				"co",
+				"contenuto"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"a",
+				"aPagina"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"page",
+				"pages"
+			],
+			[
+				"curre",
+				"currentTarget"
+			],
+			[
+				"bar",
+				"bar-tab"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lng",
+				"lngfin"
+			],
+			[
+				"ln",
+				"lngfin"
+			],
+			[
+				"lat",
+				"latin"
+			],
+			[
+				"el",
+				"enlazarMarcador"
+			],
+			[
+				"l",
+				"lng"
+			],
+			[
+				"geo",
+				"geolocalizar"
+			],
+			[
+				"la",
+				"latin"
+			],
+			[
+				"com",
+				"compactar"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sc",
+				"Screen"
+			],
+			[
+				"n",
+				"Navigator"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"hre",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/saulgiordani/Desktop/proyectos/quiz",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/node_modules/.bin"
+	],
+	"file_history":
+	[
+		"/Users/saulgiordani/Desktop/proyectos/quiz/controllers/quiz_controller.js",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/quizes/index.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/quizes/question.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/models/models.js",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/layout.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/quiz.sqlite",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/quizes/show.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/routes/index.js",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/index.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/app.js",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/models/quiz.js",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/creditos.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/error.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/views/quizes/answer.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/package.json",
+		"/Users/saulgiordani/Desktop/untitled",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/public/stylesheets/wide.css",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/public/stylesheets/style.css",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/public/stylesheets/smartphone.css",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/fichero.env",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/Procfile",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/stylesheets/smartphone.css",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/stylesheets/wide.css",
+		"/Users/saulgiordani/Desktop/proyectos/quiz/stylesheets/style.css",
+		"/Users/saulgiordani/Desktop/quiz/app.js",
+		"/Users/saulgiordani/Desktop/random/README.md",
+		"/Users/saulgiordani/Desktop/random/LICENCE.md",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/views/layout.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/app.js",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/views/index.ejs",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/views/quizes/answer",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/views/quizes/question",
+		"/Users/saulgiordani/Desktop/proyectos/node_modules/express-generator/bin/quiz/routes/index.js",
+		"/Users/saulgiordani/Desktop/apps/mod4p2p.js",
+		"/Users/saulgiordani/Desktop/apps/ejercicio.js",
+		"/Users/saulgiordani/Desktop/curso/ejercicio.js",
+		"/Users/saulgiordani/Desktop/apps/quiz.js",
+		"/Users/saulgiordani/Desktop/credentials.txt",
+		"/Users/saulgiordani/Desktop/AgendaListar.js",
+		"/Users/saulgiordani/Desktop/ej_mod2.js",
+		"/Users/saulgiordani/Desktop/ejercicio_obl.js",
+		"/Users/saulgiordani/Desktop/ejercicio.js",
+		"/Users/saulgiordani/Desktop/html/slider-with-fixed-static-element.source.html",
+		"/Users/saulgiordani/Downloads/slider-with-fixed-static-element.source.html",
+		"/Users/saulgiordani/Desktop/robaccia.html",
+		"/Users/saulgiordani/Desktop/Materica 1/lib/slideshow_fade.js",
+		"/Users/saulgiordani/Desktop/Materica 1/lib/search.js",
+		"/Users/saulgiordani/Desktop/Materica 1/lib/caption.js",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 1/search.js",
+		"/Users/saulgiordani/Desktop/Tesi.html",
+		"/Users/saulgiordani/Desktop/Materica 1/style.css",
+		"/Users/saulgiordani/Desktop/Materica 1/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Cordova/Apps/TestApp/www/index.html",
+		"/Users/saulgiordani/Desktop/Materica 1/style_Menu.css",
+		"/Users/saulgiordani/Desktop/prova.java",
+		"/Users/saulgiordani/Desktop/build.gradle",
+		"/Users/saulgiordani/Desktop/prova",
+		"/Users/saulgiordani/Downloads/style.css",
+		"/Users/saulgiordani/Downloads/big-brother/index.php",
+		"/Users/saulgiordani/Downloads/big-brother/style.css",
+		"/Users/saulgiordani/Downloads/big-brother/functions.php",
+		"/Users/saulgiordani/Downloads/big-brother/content-single.php",
+		"/Users/saulgiordani/Downloads/big-brother/content.php",
+		"/Users/saulgiordani/Downloads/big-brother/archive.php",
+		"/Users/saulgiordani/Downloads/big-brother/single.php",
+		"/Users/saulgiordani/Downloads/big-brother/page.php",
+		"/Users/saulgiordani/Downloads/big-brother/header.php",
+		"/Users/saulgiordani/Downloads/big-brother/full-width.php",
+		"/Users/saulgiordani/Downloads/big-brother/content-page.php",
+		"/Users/saulgiordani/Downloads/big-brother/rtl.css",
+		"/Users/saulgiordani/Downloads/big-brother/inc/style-wpcom.css",
+		"/Users/saulgiordani/Downloads/big-brother/inc/extras.php",
+		"/Users/saulgiordani/Downloads/big-brother/inc/custom-header.php",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 2/style_Menu.css",
+		"/Users/saulgiordani/Desktop/untitled.html",
+		"/Users/saulgiordani/Desktop/untitled2.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 1/style_Menu.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 1/style.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 1/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 2/style.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 2/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Cordova/Apps/TestApp/www/css/mystyle.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica 1/slideshow_fade.js",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica/style.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica/style_Menu.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /style.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /prova.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /prova.html",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/AndroidManifest.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/values/strings.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/util/SystemUiHider.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/util/SystemUiHiderBase.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/util/SystemUiHiderHoneycomb.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/parser/CleanHtml.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/parser/DOMParser.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/parser/Feed.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/parser/Item.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/image/MemoryCache.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/image/ImageLoader.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/image/FileCache.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/image/Utils.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/NewsActivity.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/MainActivity.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/CommentsActivity.java",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/src/com/example/intertiamo/DetailActivity.java",
+		"/Users/saulgiordani/Desktop/Progetti/Intertiamo/AndroidManifest.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/activity_comments.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/activity_detail.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/activity_main.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/activity_news.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/news_item.xml",
+		"/Users/saulgiordani/Dropbox/Gabriele/Progetti/Intertiamo/res/layout/refresh_progress.xml",
+		"/Users/saulgiordani/Desktop/Progetti/Intertiamo/res/layout/activity_main.xml",
+		"/Users/saulgiordani/Documents/Programmazione/PhoneGapp:Cordova/Lezioni/codice-lezioni/lezioni-e-comandi/17/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/PhoneGapp:Cordova/Lezioni/codice-lezioni/lezioni-e-comandi/24/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/PhoneGapp:Cordova/Lezioni/codice-lezioni/lezioni-e-comandi/13/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/PhoneGapp:Cordova/Apps/Testapp/www/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/PhoneGapp:Cordova/Lezioni/codice-lezioni/lezioni-e-comandi/12/index.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /minimod_dl/caption.js",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /minimod_dl/MiniModulo.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Materica/search-form.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /barra navigazione.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /prodotti.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /Chi-siamo.html",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /style_Menu.css",
+		"/Users/saulgiordani/Documents/Programmazione/Sito /slideshow_fade.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quizes",
+			"succ",
+			"suc",
+			"93",
+			"94",
+			"92",
+			"91",
+			"posi",
+			"allo",
+			"?",
+			"?>",
+			">",
+			"entry-c",
+			"entry",
+			"before",
+			"big-br",
+			"$meta",
+			"span",
+			"author",
+			"category",
+			"entry-co",
+			"absolute",
+			"slide",
+			"active",
+			"hash",
+			"qui",
+			"footer",
+			"\")."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "quiz.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
