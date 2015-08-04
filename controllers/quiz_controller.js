@@ -40,8 +40,9 @@ exports.answer = function(req, res) {
 
 // GET /quizes/:busqueda
 exports.index=function(req,res){
+	var busqueda;
 	if(req.query.search!=""){
-		var busqueda=(req.query.busqueda||"").replace(" ","%");
+		busqueda=(req.query.busqueda||"").replace(" ","%");
 	} else {
 		busqueda="";
 	}
@@ -76,7 +77,7 @@ exports.create = function(req, res) {
 			} else {
 				quiz
 				.save({fields: ["pregunta", "respuesta"]})
-				.then(function() { res.redirect('/quizes')})
+				.then(function() { res.redirect('/quizes')});
 			}	//	res.redirect
 		}
 	);
