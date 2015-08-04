@@ -49,7 +49,7 @@ exports.index=function(req,res){
 	models.Quiz.findAll({where:['pregunta like ?','%'+busqueda+'%'],order:'pregunta ASC'}).
 	then(function(quizes){
 		res.render('quizes/index.ejs',{quizes:quizes,errors:[]});
-	}).catch(function(error){
+	}).catch(function(error) {
 		next(error);
 	});
 };
