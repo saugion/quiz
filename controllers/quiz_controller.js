@@ -101,14 +101,20 @@ exports.update = function(req, res) {
 			}
 		}
 	);
-}
+};
+
+// EDIT /quizes/:id/edit
+exports.edit = function(req, res) {
+	var quiz = req.quiz; //autoload de instancia de quiz
+    res.render('quizes/edit',{quiz: quiz, errors: []});
+};
 
 // DELETE /quizes/:id
 exports.destroy = function(req, res) {
 	req.quiz.destroy().then(function() {
 		res.redirect('/quizes');
 	}).catch(function(error) {
-		next(error)
+		next(error);
 	});
 };
 

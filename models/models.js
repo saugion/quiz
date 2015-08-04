@@ -46,8 +46,8 @@ sequelize.sync().then(function() {
 							tema:'tema'
 						})
 			.then(function(){
-				console.log('Base de datos inicializada')
+				console.log('Base de datos inicializada');
 			});
-		};
+		}
 	});
 });
