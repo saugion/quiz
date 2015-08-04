@@ -97,7 +97,7 @@ exports.update = function(req, res) {
 				res.render('quizes/edit', {quiz: req.quiz, errors: err.errors});
 			} else {
 				req.quiz
-				.save({fields: ["pregunta", "respuesta"]})
+				.save({fields: ["pregunta", "respuesta", "tema"]})
 				.then(function() { res.redirect('/quizes');
 			});
 			}
