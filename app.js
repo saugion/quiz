@@ -34,6 +34,15 @@ app.use(function(req, res, next) {
     }
 
     res.locals.session = req.session;
+
+    // cerrar sesion
+    if (req.session.user) {
+        if (Date.now() - req.session.user.lastRequestTime > 2*1000) {
+            delete req.session.user;
+        } else {
+            req.session.user.lastRequestTime = Date.now();
+        }
+    }
     next();
 });
 
